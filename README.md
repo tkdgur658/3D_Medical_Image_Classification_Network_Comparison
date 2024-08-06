@@ -1,4 +1,4 @@
-# PyTorch Implementation of Classification Network Comparison (for performance comparison in paper "Neural Network-based Pipeline with High-Resolution Feature Enhancement and Low-Resolution Feature Preservation for Automated Treatment Decision of Graves' Orbitopathy Patients.")
+# PyTorch Implementation of Medical Image Classification Network Comparison (for performance comparison in paper "Neural Network-based Pipeline with High-Resolution Feature Enhancement and Low-Resolution Feature Preservation for Automated Treatment Decision of Graves' Orbitopathy Patients.")
  
 The preprocessing and architecture can be referenced by a manuscript entitled, "Neural Network-based Pipeline with High-Resolution Feature Enhancement and Low-Resolution Feature Preservation for Automated Treatment Decision of Graves' Orbitopathy Patients." 
 
@@ -24,6 +24,5 @@ This program is available for download for non-commercial use, licensed under th
 
 ## Files
 The repository contains the following files:
-- `GONet.py`: Python script file, containing the PyTorch implementation of the GONet
-- `GONet.png`: Figure file for network block
+- `main.ipynb`: Python script file, containing the main experiment execution file
 - `README.md`: Markdown file explaining the model source code
