@@ -1,6 +1,6 @@
 # PyTorch Implementation of Medical Image Classification Network Comparison (for performance comparison in paper "Neural Network-based Pipeline with High-Resolution Feature Enhancement and Low-Resolution Feature Preservation for Automated Treatment Decision of Graves' Orbitopathy Patients.")
  
-The preprocessing and architecture can be referenced by a manuscript entitled, "Neural Network-based Pipeline with High-Resolution Feature Enhancement and Low-Resolution Feature Preservation for Automated Treatment Decision of Graves' Orbitopathy Patients." 
+The overall process can be referenced by a manuscript entitled, "Neural Network-based Pipeline with High-Resolution Feature Enhancement and Low-Resolution Feature Preservation for Automated Treatment Decision of Graves' Orbitopathy Patients." 
 
 ## Overview
 This repository contains an official implementation of experiment code of "Neural Network-based Pipeline with High-Resolution Feature Enhancement and Low-Resolution Feature Preservation for Automated Treatment Decision of Graves' Orbitopathy Patients" using PyTorch.<br/>
